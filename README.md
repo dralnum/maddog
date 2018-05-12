@@ -1,5 +1,7 @@
 Esse arquivo é importante.
 
-Mas não tanto assim.
+Mas não tanTo assim.
 
 Alteração feita pelo Lorde Soberano LeonardoGruppelli.
+
+Teste.
